@@ -1,4 +1,3 @@
-
 public class hello
 {
   public static void main(String [] args)
@@ -7,8 +6,9 @@ public class hello
   }
   
   
-  public static boolean cal()
+  public static char cal(int val)
   {
-    return true ;
+    //return true ;
+    return 'A' ;
   }
 }
